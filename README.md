@@ -1,8 +1,22 @@
 <div align= center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MinGuk🚴‍♂💨&fontSize=90" />
-
-
+  <br>
+  <br>
+  <a href="mailto:minkuk90@gmail.com" target="_top">
+    <img src= "https://img.shields.io/badge/minkuk90@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <span>--🤖--</span>
+  <a  href="https://velog.io/@minkuk90">
+   <img src= "https://img.shields.io/badge/Velog-TIL-green"/>📃
+  </a>
+  <br>
+  <br>
+  <p>👋  Hi there!I am studying to become a developer using react. 🚀</p>
+  <p>i hope to develop every beautiful things.✨</p>
+  </br>
   <h1>🛠Stack🛠</h1>
+  <br>
+  <br>
   <p>
     <img src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -18,13 +32,10 @@
     <img src= "https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
     <img src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   </p>
-
+  
   <h1></h1>
+  <br>
   <img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <img src= "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src= "https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
-  <br>
-  <h1>TIL</h1>
-  <a  href="https://velog.io/@minkuk90">📃Velog</a>
 </div>
