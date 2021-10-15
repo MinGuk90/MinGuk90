@@ -12,7 +12,7 @@
   <br>
   <br>
   <p>👋  Hi there!I am studying to become a developer using react. 🚀</p>
-  <p>i hope to develop every beautiful things.✨</p>
+  <p>✨i hope to develop every beautiful things.✨</p>
   </br>
   <h1>🛠Stack🛠</h1>
   <br>
