@@ -30,6 +30,7 @@
     <img src= "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img src= "https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
     <img src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Tailwind CSS-%2300599C.svg?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
   </p>
   
   <h1></h1>
